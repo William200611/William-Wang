@@ -47,10 +47,10 @@
     <div class="container">
         <img src="31503cd68133d96547e9bb2ef9597ce1.jpeg" alt="William's Photo">
         <h1 class="neon-text">William's Cyberpunk World</h1>
-        <p>來自廣州的 William，夢想環遊世界，尋找真正屬於自己的世界。</p>
+        <p>來自廣州的 William，夢想環遊世界。</p>
         <p>「我要找到真正屬於我的世界」</p>
         <div class="contact">
-            <p>📱 WeChat: 2924269711</p>
+            <p>📱 WeChat: 66666666</p>
         </div>
     </div>
 </body>
