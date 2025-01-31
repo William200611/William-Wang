@@ -47,10 +47,10 @@
     <div class="container">
         <img src="31503cd68133d96547e9bb2ef9597ce1.jpeg" alt="William's Photo">
         <h1 class="neon-text">William's Cyberpunk World</h1>
-        <p>im William，夢想環遊世界。</p>
-        <p>「我想要一辆GTR R35」</p>
+        <p>im William</p>
+        <p>「新年快乐🎉🎉🎉」</p>
         <div class="contact">
-            <p>📱 WeChat: 66666666</p>
+            <p>如果你打开了这个页面 说明我做的这个网站是有效的✌️</p>
         </div>
     </div>
 </body>
