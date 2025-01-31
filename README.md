@@ -45,7 +45,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="E5945EC1-633B-4BFB-8C46-064D5FB6D200.jpeg" alt="William's Photo">
+        <img src="31503cd68133d96547e9bb2ef9597ce1.jpeg" alt="William's Photo">
         <h1 class="neon-text">William's Cyberpunk World</h1>
         <p>來自廣州的 William，夢想環遊世界，尋找真正屬於自己的世界。</p>
         <p>「我要找到真正屬於我的世界」</p>
